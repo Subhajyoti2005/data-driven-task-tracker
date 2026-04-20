@@ -1,0 +1,26 @@
+task_id,task_name,category,priority,status,assigned_to,due_date,created_date,estimated_hours,actual_hours
+1,Design homepage UI,Design,High,In Progress,Ayesha,2026-04-10,2026-03-01,8,10
+2,Fix login bug,Development,High,Pending,Rahul,2026-04-05,2026-03-10,4,
+3,Write unit tests,Testing,Medium,Done,Priya,2026-03-20,2026-03-05,6,6
+4,Deploy to production,DevOps,High,In Progress,Rahul,2026-04-18,2026-03-15,3,4
+5,Update API docs,Documentation,Low,Pending,Sneha,2026-05-01,2026-03-20,2,
+6,Team standup meeting,Meetings,Medium,Done,All,2026-04-03,2026-03-25,1,1
+7,Code review PR #42,Development,High,In Progress,Ayesha,2026-04-12,2026-03-12,3,5
+8,Set up CI/CD pipeline,DevOps,High,Pending,Rahul,2026-04-25,2026-03-08,10,
+9,Write project proposal,Management,Medium,Done,Sneha,2026-03-28,2026-03-02,5,5
+10,Client call preparation,Meetings,High,In Progress,Priya,2026-04-08,2026-03-18,2,3
+11,Database optimization,Development,Medium,Pending,Rahul,2026-04-30,2026-03-22,8,
+12,Create weekly report,Management,Low,Done,Sneha,2026-03-15,2026-03-01,2,2
+13,Fix broken links,Development,Medium,Pending,Ayesha,2026-04-20,2026-03-14,1,
+14,Research new frameworks,Research,Low,Done,Priya,2026-05-10,2026-03-28,4,4
+15,Refactor auth module,Development,High,In Progress,Rahul,2026-04-15,2026-03-10,12,8
+16,Update dependencies,DevOps,Medium,Done,Ayesha,2026-03-25,2026-03-05,2,2
+17,Write user manual,Documentation,Low,Pending,Sneha,2026-05-05,2026-03-20,5,
+18,Performance testing,Testing,High,In Progress,Priya,2026-04-22,2026-03-15,6,7
+19,Setup monitoring alerts,DevOps,High,Pending,Rahul,2026-04-28,2026-03-19,4,
+20,Budget planning meeting,Management,Medium,Done,Sneha,2026-03-30,2026-03-07,2,2
+21,Create onboarding flow,Design,Medium,Pending,Ayesha,2026-04-17,2026-03-11,7,
+22,Migrate old data,DevOps,High,In Progress,Rahul,2026-04-26,2026-03-16,9,6
+23,Security audit,Security,High,Pending,Priya,2026-05-15,2026-03-21,8,
+24,Design email templates,Design,Low,Done,Ayesha,2026-03-18,2026-03-03,3,3
+25,Implement dark mode,Development,Medium,Pending,Rahul,2026-05-08,2026-03-25,10,
